@@ -2,7 +2,7 @@
 title: 'mi primer post'
 date: 'March 12, 2021'
 excerpt: 'que haces aqui che.'
-cover_image: '/images/posts/img7.jpg'
+cover_image: 'https://vistapointe.net/images/che-guevara-2.jpg'
 ---
 
 Lorem [markdownum](http://insunt.org/inpositaque), et sanguine rutilos dixit
