@@ -1,7 +1,7 @@
 ---
-title: 'Python Book Review'
-date: 'March 7, 2021'
-excerpt: 'In this review, we will be looking at the new Python book from Oriley'
+title: 'mi iglesia'
+date: '13 julio, 2021'
+excerpt: 'este es una breve historia de mi iglesia'
 cover_image: '/images/posts/img6.jpg'
 ---
 
